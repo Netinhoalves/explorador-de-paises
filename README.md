@@ -1,6 +1,6 @@
 # Explorador de Países ([Click Here](https://explorador-de-paises.vercel.app/))
 
-![Preview](./public/preview-desktop.png/preview-desktop.png)
+![Preview](./public/preview-desktop.png)
 
 ## SOBRE ESTE PROJETO!
 
