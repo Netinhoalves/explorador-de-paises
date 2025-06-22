@@ -4,11 +4,11 @@
 
 ## SOBRE ESTE PROJETO!
 
-Este é um projeto proposto na disciplina "Desenvolvimento Web Avançado", do curso superior de Análise e Desenvolvimento de Sistemas, no Instituto Federal de Mato Grosso do Sul (IFMS). [cite_start]O objetivo é demonstrar as habilidades em desenvolvimento de interfaces modernas e dinâmicas com React.
+Este é um projeto proposto na disciplina "Desenvolvimento Web Avançado", do curso superior de Análise e Desenvolvimento de Sistemas, no Instituto Federal de Mato Grosso do Sul (IFMS). [Explorador de Países](https://explorador-de-paises.vercel.app/) tem como objetivo é demonstrar as habilidades em desenvolvimento de interfaces modernas e dinâmicas com React.
 
 ## Objetivo
 
-O objetivo do projeto é criar uma aplicação web interativa que consome a API pública [REST Countries](https://restcountries.com/) para permitir aos usuários explorar informações sobre os países do mundo. [cite_start]A aplicação deve ser funcional e relevante para o aprendizado.
+O objetivo do projeto é criar uma aplicação web interativa que consome a API pública [REST Countries](https://restcountries.com/) para permitir aos usuários explorar informações sobre os países do mundo. A [aplicação](https://explorador-de-paises.vercel.app/) deve ser funcional e relevante para o aprendizado.
 
 As funcionalidades incluem:
 
@@ -19,16 +19,16 @@ As funcionalidades incluem:
 
 ## Tecnologias usadas
 
-- **React**
-- [cite_start]**TypeScript**
-- [cite_start]**Vite**
-- [cite_start]**Tailwind CSS**
-- [cite_start]**React Router** para a navegação
-- **Axios** para o consumo da API
+- [**React**](https://react.dev/)
+- [**TypeScript**](https://www.typescriptlang.org/)
+- [**Vite**](https://vite.dev/)
+- [**Tailwind CSS**](https://tailwindcss.com/)
+- [**React Router**](https://reactrouter.com/) para a navegação
+- [**Axios**](https://www.npmjs.com/package/axios) para o consumo da API
 
 ## Como Executar Localmente
 
-[cite_start]Como este projeto será entregue via um repositório público no GitHub, siga os passos abaixo para executá-lo em sua máquina.
+Como este projeto será entregue via um repositório público no GitHub, siga os passos abaixo para executá-lo em sua máquina.
 
 1.  **Clone o repositório:**
     ```bash

@@ -43,11 +43,14 @@ const CountryDetail = () => {
 
       {/* Grid principal para a bandeira e as informações */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
-        <img
-          src={country.flags.svg}
-          alt={`Bandeira de ${country.name.common}`}
-          className="w-full rounded-lg shadow-md"
-        />
+        {}
+        <div className="w-full aspect-video bg-gray-100 rounded-lg shadow-md overflow-hidden">
+          <img
+            src={country.flags.svg}
+            alt={`Bandeira de ${country.name.common}`}
+            className="w-full h-full object-contain"
+          />
+        </div>
         <div>
           <h2 className="text-3xl font-bold mb-6">{country.name.official}</h2>
 
